@@ -1,6 +1,6 @@
 # Project 1 — Exploratory Data Analysis (EDA)
 ## Overview
-''' This project demonstrates core exploratory data analysis skills using Python. The goal is to take a raw dataset, clean it, explore patterns, and communicate insights through visualizations.''' \
+This project demonstrates core exploratory data analysis skills using Python. The goal is to take a raw dataset, clean it, explore patterns, and communicate insights through visualizations.
 
 ## Tools Used
 - Python
