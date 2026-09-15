@@ -11,7 +11,7 @@ This project demonstrates core exploratory data analysis skills using Python. Th
 
 - Matplotlib
 
-- Plotly Express\
+- Plotly Express
 
 ## Files
 - eda.ipynb — main notebook
