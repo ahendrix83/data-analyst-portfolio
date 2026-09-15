@@ -30,10 +30,10 @@ Highlights: messy real-world data, normalization, mapping, date parsing
 Tools: pandas, Plotly, Dash
 Highlights: full dashboard suite, multi-page navigation, demographic + sentencing analytics
 
-**Contact**
+**Contact**<br>
 *[GitHub](https://github.com/ahendrix83/data-analyst-portfolio.git)*
 *LinkedIn: **www.linkedin.com/in/ashleyhendrixa***
-*Email:Ashley.HendrixA@gmail.com*
+*Email: Ashley.HendrixA@gmail.com*
 
 
 
