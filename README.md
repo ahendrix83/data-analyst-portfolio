@@ -2,17 +2,12 @@
 Welcome to my Data Analyst Portfolio. I specialize in Python, pandas, NumPy, Matplotlib, Plotly, and Dash, and I build clean, insightful analyses and interactive dashboards. My work focuses on transforming raw data into clear, actionable insights.
 
 Technical Skills
-Python: pandas, NumPy, Matplotlib, Plotly, Dash
-
-Data Cleaning & Wrangling: missing values, normalization, feature engineering
-
-Exploratory Data Analysis (EDA): descriptive statistics, trend analysis
-
-Visualization: static + interactive charts
-
-Dashboards: multi-page apps, callbacks, UI design
-
-Reporting: executive summaries, data storytelling
+- **Python**: pandas, NumPy, Matplotlib, Plotly, Dash
+- **Data Cleaning & Wrangling**: missing values, normalization, feature engineering
+- **Exploratory Data Analysis (EDA)**: descriptive statistics, trend analysis
+- **Visualization: static + interactive charts**
+- **Dashboards**: multi-page apps, callbacks, UI design
+- **Reporting**: executive summaries, data storytelling, meaningful reports with insight on the analyzed data
 
 Featured Projects
 1. Exploratory Data Analysis (EDA)
@@ -35,10 +30,10 @@ Highlights: messy real-world data, normalization, mapping, date parsing
 Tools: pandas, Plotly, Dash
 Highlights: full dashboard suite, multi-page navigation, demographic + sentencing analytics
 
-Contact
-GitHub:https://github.com/ahendrix83/data-analyst-portfolio.git
-LinkedIn:www.linkedin.com/in/ashleyhendrixa
-Email:Ashley.HendrixA@gmail.com
+**Contact**
+*[GitHub](https://github.com/ahendrix83/data-analyst-portfolio.git)*
+*LinkedIn: **www.linkedin.com/in/ashleyhendrixa***
+*Email:Ashley.HendrixA@gmail.com*
 
 
 
