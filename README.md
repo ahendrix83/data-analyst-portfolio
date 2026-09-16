@@ -1,6 +1,6 @@
 # Ashley Hendrix — Data Analyst Portfolio
 
-**Welcome to my Data Analyst Portfolio.** While my broader expertise includes SQL, Excel, and SPSS, this specific project leverages Python (pandas, NumPy, Matplotlib, Seaborn, Plotly, and Dash) to build clean, interactive dashboards and deep-dive analyses. My goal is to transform raw data into clear, actionable insights. *Note: This is an independent project not affiliated with any government agency; please independently verify all calculations for accuracy.*
+**Welcome to my Data Analyst Portfolio.** While my broader expertise includes SQL, Excel, and SPSS, this specific project leverages Python (pandas, NumPy, Matplotlib, Seaborn, Plotly, and Dash) to build clean, interactive dashboards and deep-dive analyses. My goal is to transform raw data into clear, actionable insights. *Note: This is an independent project not affiliated with any government agency; please independently verify all data, conclusions, and/or calculations for accuracy.*
 
 Technical Skills
 - **Python**: pandas, NumPy, Matplotlib, Plotly, Dash
