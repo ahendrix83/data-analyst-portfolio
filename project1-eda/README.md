@@ -29,4 +29,4 @@ This project demonstrates core exploratory data analysis skills using Python. Th
 - What insights can be drawn from the visualizations?
 
 ###  ***Univariate Analysis*** 
-*A simple statistical data analysis that examines each variable (var) independently to understand its value distribution. This section explores each variable independently to understand its distribution, central tendencies, and overall behavior. Univariate analysis helps identify patterns, skewness, outliers, and category imbalances before moving into deeper multivariate relationships.*
+*A simple statistical data analysis that examines each variable on its own to identify its central tendencies. This section explores each variable independently to understand its distribution, central tendencies, and overall behavior. Univariate analysis helps highlight patterns, skewness, outliers, and category imbalances before moving into deeper multivariate relationships.*
