@@ -91,7 +91,11 @@ def update_charts(county):
         dff,
         x='fiscal_year',
         y='child_pop',
-        title=f"Texas Child Population Over Time for {county} County"
+        title=f"Texas Child Population Over Time for {county} County",
+        labels={
+            "fiscal_year": "DFPS Fiscal Year",
+            "child_pop":"Texas Child Populations (Ages 0 - 17)"
+        }
     )
     fig_pop.update_layout(template='plotly_white')
 
@@ -99,7 +103,11 @@ def update_charts(county):
         dff,
         x="fiscal_year",
         y="removals_per_1000_children",
-        title=f"Removals per 1,000 Children from {county} County"
+        title=f"Removals per 1,000 Children from {county} County",
+        labels={
+            "fiscal_year": "DFPS Fiscal Year",
+            "removals_per_1000_children" : "Removal Rate (per 1,000 Children)"
+        }
     )
     fig_removal_rate.update_layout(template='plotly_white')
 
@@ -107,7 +115,10 @@ def update_charts(county):
         dff,
         x='fiscal_year',
         y='victims_per_1000_children',
-        title=f"Confirmed Victims per 1,000 Children in {county} County"
+        title=f"Confirmed Victims per 1,000 Children in {county} County",
+        labels={"fiscal_year": "DFPS Fiscal Year",
+                "victims_per_1000_children": "Confirmed Victim Rate (per 1,000 Children)"
+        }
     )
     fig_victim_rate.update_layout(template='plotly_white')
 

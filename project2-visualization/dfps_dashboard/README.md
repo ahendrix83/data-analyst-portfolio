@@ -12,11 +12,30 @@ Data Portal datasets.
 - Fiscal-year aligned metrics
 - Powered by MySQL + Dash + Plotly
 
-### How to Run
-1. Install dependencies:
-   pip install -r requirements.txt
+## Data Portfolio: DFPS Interactive Dashboard (Screenshots)
 
-2. Update database credentials in config.py
+Although the full interactive dashboard requires a local MySQL database,
+you can view the dashboard layout and visualizations below.
 
-3. Start the dashboard:
-   python app.py
+### Dashboard Home
+![Dashboard Home](screenshots/dashboard_home.png)
+
+### Child Population Trend
+![Population Trend](screenshots/population_trend.png)
+
+### Removals per 1,000 Children
+![Removal Rate](screenshots/removal_rate.png)
+
+### Victims per 1,000 Children
+![Victim Rate](screenshots/victim_rate.png)
+
+## Future Enhancements
+
+- Deploy dashboard online using Render
+- Add statewide trends dashboard
+- Add regional comparison dashboard
+- Add anomaly detection dashboard
+- Add YOY change visualizations
+
+> A live interactive version of this dashboard will be available soon on my website.
+
