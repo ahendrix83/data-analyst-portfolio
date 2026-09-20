@@ -1,0 +1,55 @@
+/* Ashley Hendrix style sheet for dashboards
+
+*/
+
+/*Global Styles*/
+
+body {
+    background-color: #8eabd6;
+    font-family: "Segoe UI", Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Center the main title */
+h1 {
+    text-align: center;
+    color: #082f57;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+/*   Dashboard Container*/
+
+.dashboard-container {
+    width: 85%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+/*   Dropdown Styling */
+
+.dropdown-container {
+    width: 40%;
+    margin: 20px auto;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+label {
+    font-weight: 600;
+    color: #0d0f11;
+}
+
+/*    Chart Card Styling */
+
+.chart-card {
+    background: white;
+    padding: 20px;
+    margin: 25px 0;
+    border-radius: 12px;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.08);
+}
